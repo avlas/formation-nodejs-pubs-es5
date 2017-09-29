@@ -9,15 +9,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/avlas/formation-nodejs-pubs.git"
+        "url": "git+https://github.com/avlas/formation-nodejs-pubs-es5.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/avlas/formation-nodejs-pubs/issues"
+        "url": "https://github.com/avlas/formation-nodejs-pubs-es5/issues"
     },
-    "homepage": "https://github.com/avlas/formation-nodejs-pubs#readme",
+    "homepage": "https://github.com/avlas/formation-nodejs-pubs-es5#readme",
     "dependencies": {
         "lodash": "^4.17.4",
         "moment": "^2.18.1"
